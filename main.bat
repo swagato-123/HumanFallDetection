@@ -1,0 +1,1 @@
+cmd /k ".\utils & python main.py"
